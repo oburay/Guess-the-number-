@@ -43,7 +43,7 @@ int x,i,k,y,z=4;
          scanf("%d",&k);
          if (k==1)
          {
-
+            z=4;
             printf("\n");
             goto START;
          }
